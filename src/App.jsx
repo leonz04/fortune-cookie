@@ -5,6 +5,7 @@ import Phrase from './components/Phrase';
 import Button from './components/Button';
 import wallpaper from './services/photos.json'
 import './App.css'
+import './index.css'
 
 
 
